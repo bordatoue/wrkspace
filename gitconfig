@@ -1,0 +1,7 @@
+[core]
+	editor = mate -w
+[credential]
+	helper = osxkeychain
+[user]
+	name = Bordatoue
+	email = me@localhost.com
